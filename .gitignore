@@ -1,0 +1,10 @@
+#Seguir o padrão para ignorar pastas: nome completo da pasta
+pasta_teste
+
+#Seguir o padrão para ignorar arquivos de extensões iguais: colocar ponto (.) e a estensão do arquivo
+.js
+
+#Seguir o padrão para ignorar arquivos unicos: colocar nome e extensão do arquivo
+teste.js
+
+#para mais exemplos ou informações, leia a documentação do gitignore no seguinte link: https://git-scm.com/docs/gitignore
