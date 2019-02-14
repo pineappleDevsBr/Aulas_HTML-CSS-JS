@@ -74,7 +74,7 @@ GETTING STARTED, um guia para iniciantes na área de web: [http://tableless.gith
 
 ## Exercicio
 
-<a id="raw-url" class="btn btn-sm BtnGroup-item" href="/pineappledevss/Aulas_HTML-CSS-JS/raw/Aula02_2019-02-14_HTML5/%5BExerci%CC%81cio%5D%20Pa%CC%81gina%20HTML%20-%20Receita%20de%20bolo.pdf">Clique aqui para baixar o PDF</a>
+<a href="[Exercício] Página HTML - Receita de bolo.pdf" download>Clique aqui para baixar o PDF</a>
 
 *Após o download do PDF, siga as instruções e, com o auxílio das referências, replique a receita de bolo em HTML5 semânticamente correto.*
 
